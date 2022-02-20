@@ -1,6 +1,6 @@
 # discord-music-bot
 
-Discord music bot written in Python using Discord.py and Wavelink. Should be working on Python 3.8.
+Discord music bot written in Python using Discord.py and Wavelink. Should work on Python 3.8.
 
 Lavalink server is required to run, configuration provided in application.yml file.
 
